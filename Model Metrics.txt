@@ -1,0 +1,4 @@
+Best Model: XGBClassifier
+Tuned using: RandomSearchCV
+Hyperparameters: {'n_estimators': 200, 'max_depth': 6, 'learning_rate': 0.01, 'gamma': 0}
+Metrics: {AUC:  0.65, accuracy: 0.56, , f1_score (True) = 0.17, business_cost_10 = 9154, business_cost_10 = 12084}
