@@ -1,5 +1,6 @@
 # Car Insurance Claim Prediction
 This repository contains a machine learning project focused on predicting car insurance claims based on policy, car, and demographic features.
+
 ![Car Image](readme_images/car.png)
 
 ## Project Overview
