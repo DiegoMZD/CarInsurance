@@ -1,13 +1,13 @@
 # Car Insurance Claim Prediction
-
 This repository contains a machine learning project focused on predicting car insurance claims based on policy, car, and demographic features.
+![Car Image](readme_images/car.png)
 
 ## Project Overview
 In the insurance industry, accurately predicting whether a policyholder will file a claim is crucial for risk assessment and operational efficiency. This project aims to build and deploy a classification model that can effectively predict insurance claims. By doing so, it helps mitigate the financial impact of false positives and false negatives, where false negatives typically incur higher costs for insurance companies.
 
 ## Dataset
-The dataset used in this project is sourced from Kaggle, comprising 44 columns and 58,592 rows. Each row represents a policy record, including features such as policy ID, policy tenure, car specifications (make, model, age, etc.), demographic details (age of policyholder, city, population density), and a binary target variable indicating whether the policy resulted in a claim.
-https://www.kaggle.com/datasets/ifteshanajnin/carinsuranceclaimprediction-classification/data
+The dataset used in this project is sourced from Kaggle, comprising 44 columns and 58,592 rows. Each row represents a policy record, including features such as policy ID, policy tenure, car specifications (make, model, age, etc.), demographic details (age of policyholder, city, population density), and a binary target variable indicating whether the policy resulted in a claim.  
+Link to the original dataset: https://www.kaggle.com/datasets/ifteshanajnin/carinsuranceclaimprediction-classification/data
 
 ## Methodology
 ### 1. Data Preprocessing
